@@ -1,3 +1,0 @@
-Hola profesor, disculpe que lo moleste. Quería saber si podría reevaluar mi nota, con respecto al último punto. En base a lo que recuerdo de mi resolución, el error que cometí fue que, al descomponer la SNR, coloque el ancho de banda en el numerador en vez de en el denominador, por lo cual no se estaría respetando la definición del número neperiano. Quería saber si podría reevaluarla, puesto que no me gustaría perder la promoción por este error que le comente anteriormente. 
-Desde ya muchas gracias. 
-Tomás. 

@@ -1,5 +1,0 @@
-| Nombre                        | Definición                                                                                                                                                                                 |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Cumplimiento**              | - Pago de obligaciones <br>- Extingue el contrato (**liberación del deudor**)                                                                                                              |
-| **Incumplimiento**            | - 1ro debe probarse<br>- Deudor responsable por daños<br>   - Dolo -> indemnización de **consecuencias inmediatas y meditas**<br>	- Culpa -> indemnización de **consecuencias inmediatas** |
-| **Obligación de saneamiento** | Garantizar por evicción  y vicios oclutos (que la **cosa entregada sea verdaderamete de su propiedad** y que nadie reclamará luego)                                                        |

@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4650426226a4f077",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".tmp.driveupload/5504",
-                "bFile": ".tmp.driveupload/5504",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 5504"
-            }
-          },
-          {
             "id": "8cb74c52487e50bf",
             "type": "leaf",
             "state": {
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "fbcedbebced40974",
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Universidad/4to Año/5.Legislación/10.Sociedades/Transformación.md",
+                "file": "0.Universidad/4to Año/2.TACS/2.Docker/_Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Transformación"
+              "title": "Backlinks for _Introducción"
             }
           },
           {
@@ -128,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
+                "file": "0.Universidad/4to Año/2.TACS/2.Docker/_Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024 - 2C - B"
+              "title": "Outgoing links from _Introducción"
             }
           },
           {
@@ -157,31 +143,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
+                "file": "0.Universidad/4to Año/2.TACS/2.Docker/_Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024 - 2C - B"
-            }
-          },
-          {
-            "id": "6e3919b7c9c5be30",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of _Introducción"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,13 +168,12 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4650426226a4f077",
+  "active": "8cb74c52487e50bf",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
     "0.Universidad/4to Año/2.TACS/2.Docker/_Introducción.md",
     "0.Universidad/4to Año/2.TACS/11.Extras/AI",
