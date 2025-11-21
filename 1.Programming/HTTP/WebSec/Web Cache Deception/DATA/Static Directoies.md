@@ -1,0 +1,14 @@
+```
+/static
+/static/js
+/static/css
+/static/html
+/images
+/assets
+/scripts
+/archivos
+/files
+/resources
+/resources/css
+/resources/js
+```

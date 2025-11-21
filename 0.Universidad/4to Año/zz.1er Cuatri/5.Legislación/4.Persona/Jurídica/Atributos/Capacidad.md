@@ -1,0 +1,1 @@
+Límitada a aquellos derechos y obligaciones que necesita para lograr fines

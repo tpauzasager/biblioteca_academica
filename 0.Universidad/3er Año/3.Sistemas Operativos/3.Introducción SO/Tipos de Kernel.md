@@ -1,0 +1,5 @@
+| Nombre      | Características                                                                                                                                                                                          |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Monolítico  | - Todas las funcionalidades del SO dentro del kernel<br>- Más rápido en ejecución (sin overhead)<br>- Menor seguridad y arquitectura más desordenada                                                     |
+| MicroKernel | - Kernel contiene funciones fundamentales <br>- Las demás módulos están divididas en diferentes programas a nivel user<br>- Arquitectura más ordenada y mayor seguridad <br>- Menos eficiente (overhead) |
+| Multicapa   | - NO                                                                                                                                                                                                     |

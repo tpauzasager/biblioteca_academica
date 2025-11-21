@@ -1,0 +1,1 @@
+Cuando se abre archivo, se carga el FCB en memoria 

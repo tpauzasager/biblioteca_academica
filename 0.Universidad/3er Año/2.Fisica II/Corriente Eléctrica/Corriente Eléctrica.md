@@ -1,0 +1,1 @@
+Cantidad de carga eléctrica que pasa por un área por unidad de tiempo 

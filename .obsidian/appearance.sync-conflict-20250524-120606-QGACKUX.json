@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "widtherDisplay",
+    "snippet",
+    "autoWidthDisplay"
+  ],
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Ukiyo"
+}

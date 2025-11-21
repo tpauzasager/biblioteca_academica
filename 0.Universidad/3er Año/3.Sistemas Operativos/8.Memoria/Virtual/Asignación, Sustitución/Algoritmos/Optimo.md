@@ -1,0 +1,4 @@
+- Elige como víctima a la pág que no va a ser referenciada por mayor período de tiempo 
+- **No** subre **Belady**
+- Genera la **mínima** cant de PF 
+- Se usa con fines comparativos (no se puede aplicar porque requeriría conocer el futuro)

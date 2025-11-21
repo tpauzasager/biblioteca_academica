@@ -1,0 +1,129 @@
+{
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:table-row-delete": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "editor:toggle-spellcheck": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:table-col-align-center": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:table-col-align-left": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:table-col-align-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-hider:toggle-hider-status": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "obsidian-hider:toggle-tab-containers": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:table-col-after": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ]
+}

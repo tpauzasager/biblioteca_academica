@@ -1,0 +1,6 @@
+- Disco == Todo el HW
+- Volumen == Toda la parte usable del disco 
+	- Bloque de control de arranque del volumen 
+	- Control de volúmen (info gral del FS para ser manipulada por SO)
+	- Meta-Data (parcialmente en memoria)
+	- Archivos 

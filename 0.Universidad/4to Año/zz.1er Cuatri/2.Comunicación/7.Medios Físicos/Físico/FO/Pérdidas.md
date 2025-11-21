@@ -1,0 +1,8 @@
+
+| Motivo                 | Definición                                                                                                                                                           | Genera                                                  |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Dispersión Modal       | - De mayor importancia<br>- En multimodo<br>- Por **diferencia en tiempos de propagación** (modos)                                                                   | Aumento de pulso (T)                                    |
+| Dispersión Cromática   | - Generado cuando **luz no es monocromática**<br>- Luz cromatica genera diferentes longitudes de onda => viaja a velocidades diferentes                              | Disminuye amplitud (A)                                  |
+| Dispersión de Rayleigh | - **Al solidificarse el silicio**, se generan irregularidaes que producen difracción                                                                                 |                                                         |
+| Absorción y radiación  | - **Impurezas en recubrimiento** absorben luz (transformación a claro)<br>- **Imperfecciones en construcción** de fibras (dobleces, discontinuidad) genera radiación | Disminución de potencia al final de toda la transmisión |
+| Acoplamiento           | ![[Pasted image 20250622111607.webp]]                                                                                                                                |                                                         |

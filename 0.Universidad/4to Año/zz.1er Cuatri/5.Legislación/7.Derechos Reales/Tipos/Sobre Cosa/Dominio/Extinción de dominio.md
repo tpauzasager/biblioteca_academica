@@ -1,0 +1,5 @@
+- Destrucción e la cosa 
+- Animal salvaje domesticados dejan de estar domesticados 
+- Ley atribuya propiedad de una persona a otra 
+- Abandono de la cosa, aunque no hubiera sido aprobada por otra persona. El abandonador puede arrepentirse y recuperar dominio. 
+- Enajenación, entrega, escritura traslativa de dominio 

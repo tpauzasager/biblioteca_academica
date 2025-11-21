@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ea98590106baad54",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3b3839c8b54b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "937a2a894fafd26b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20250919110209.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250919110209"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a72389bca2260cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b79a8f85addf734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6374c34eeb4b02e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac56988b5fc960e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e80d8322204408c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "fbcedbebced40974",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5452e454498bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5926bf6d5a8e33d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.Universidad/4to Año/5.Legislación/10.Sociedades/Transformación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Transformación"
+            }
+          },
+          {
+            "id": "6d0113b1bc1e89d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTTP/WebSec/Web Cache Deception/DATA/File Names.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from File Names"
+            }
+          },
+          {
+            "id": "1138059a59c68b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35955a423f5decb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.Universidad/3er Año/5.Gestión de Datos/10.BI/BI.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "937a2a894fafd26b",
+  "lastOpenFiles": [
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20250919102915.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20250919100539.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20250919100341.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20250919095520.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/index2-1.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/IMG_4374.webp",
+    "HTTP/WebSec/SQLi/DATA/alfabet.md",
+    "0.Universidad/4to Año/1.Redes/Clase/99.Img/Pasted image 20250902090258.webp",
+    "0.Universidad/4to Año/1.Redes/17.LAN Wireless/9.Espectro Expandido/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/999.Img/WhatsApp Image 2025-09-21 at 9.16.32 PM.webp",
+    "0.Universidad/4to Año/1.Redes/15.LAN/Arquitectura/2.MAC.md",
+    "0.Universidad/4to Año/1.Redes/Clase/2.Capa (Red)/IPv4/Voz.md",
+    "0.Universidad/4to Año/1.Redes/Clase/1.0.LAN/IEEE802/Especificaciones.md",
+    "0.Universidad/4to Año/1.Redes/18.Interconexión de Redes/IP/Aplicaciones.md",
+    "0.Universidad/4to Año/1.Redes/Clase/1.0.LAN/IEEE802/Acceso Al Medio.md",
+    "0.Universidad/4to Año/1.Redes/Clase/1.0.LAN/VLAN.md",
+    "0.Universidad/4to Año/1.Redes/15.LAN/Dispositivos/Conmutadores.md",
+    "0.Universidad/4to Año/1.Redes/Practica/2..md",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20250919113725.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/WhatsApp Image 2025-09-21 at 9.16.31 PM.webp",
+    "0.Universidad/4to Año/1.Redes/19. Enrutamiento/Dispositivos.md",
+    "0.Universidad/4to Año/1.Redes/Clase/2.Capa (Red)/IPv6/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/Clase/99.Img/Pasted image 20250918155205.webp",
+    "0.Universidad/4to Año/1.Redes/18.Interconexión de Redes/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/Resumen Protocolos.md",
+    "0.Universidad/4to Año/1.Redes/Clase/2.Capa (Red)/IGMP.md",
+    "0.Universidad/4to Año/1.Redes/15.LAN/Arquitectura/1.LLC.md",
+    "0.Universidad/4to Año/1.Redes/Clase/3.5.Routers/Otros.md",
+    "0.Universidad/4to Año/1.Redes/16.Ethernet/Control Acceso al Medio.md",
+    "0.Universidad/4to Año/1.Redes/Clase/3.0.Capa (Transporte)/UDP.md",
+    "0.Universidad/4to Año/1.Redes/19. Enrutamiento/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/15.LAN/Arquitectura/0.Introducción.md",
+    "0.Universidad/4to Año/1.Redes/15.LAN/Dispositivos/Encaminamiento.md",
+    "0.Universidad/4to Año/1.Redes/999.Img/~syncthing~WhatsApp Image 2025-09-21 at 9.16.32 PM.webp.tmp",
+    "0.Universidad/4to Año/1.Redes/Clase/1.0.LAN/Inalambrica/Tecnologías y Normas.md",
+    "0.Universidad/4to Año/1.Redes/Clase/Cisco PT/Access Point.md",
+    "0.Universidad/4to Año/1.Redes/Clase/1.0.LAN/Inalambrica/Problemas.md",
+    "0.Universidad/4to Año/1.Redes/999.Img/~syncthing~Pasted image 20250919100341.webp.tmp",
+    "0.Universidad/4to Año/1.Redes/17.LAN Wireless/9.Espectro Expandido/~syncthing~_Introducción.md.tmp",
+    "0.Universidad/4to Año/1.Redes/18.Interconexión de Redes/IP/~syncthing~Aplicaciones.md.tmp",
+    "0.Universidad/4to Año/zz.1er Cuatri/1.Ing. Software.zip",
+    "0.Universidad/4to Año/1.Redes/Practica",
+    "0.Universidad/4to Año/1.Redes/Clase/2.Capa (Red)/IPv4/Direccionamiento",
+    "0.Universidad/4to Año/1.Redes/Clase/3.0.Capa (Transporte)/Ejemplos",
+    "0.Universidad/4to Año/1.Redes/Clase/2.Capa (Red)/IPv6",
+    "0.Universidad/4to Año/1.Redes/Clase/2.Capa (Red)/IPv4",
+    "0.Universidad/4to Año/2.Comunicación/7.Medios Físicos/Físico/FO/Untitled.canvas",
+    "0.Universidad/4to Año/5.Legislación/12.Derecho Laboral/Untitled.canvas",
+    "Untitled.canvas",
+    "0.Universidad/3er Año/6.Economía/6.Macro/Untitled.canvas"
+  ]
+}

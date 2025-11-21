@@ -1,0 +1,1 @@
+- [ ] Poner las respuestas http correctas en cada error o respons de los llamados

@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "vimMode": true
+}

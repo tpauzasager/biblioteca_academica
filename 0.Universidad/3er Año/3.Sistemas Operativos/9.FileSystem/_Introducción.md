@@ -1,0 +1,12 @@
+Objetivo:
+	- **Almacenar** datos y operar con ellos 
+	- Dar servicio de uso de archivos a SO, usuarios, aplicaciones
+	- Garantizar **integridad** de datos 
+	- **Optimizar** desempeño:
+		- Usuarios -> Tiempo respuesta
+		- Sistema -> Aprovechamiento de recursos
+	- Soportar diferentes tipos de almacenamiento
+	- Eliminar pérdida potencial de datos
+	- Proveer **infertaz estandarizada**
+	- Soportar múltiples usuarios
+	- **Compartible** entre procesos

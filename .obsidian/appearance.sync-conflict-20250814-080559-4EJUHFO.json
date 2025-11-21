@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "widtherDisplay",
+    "snippet"
+  ],
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Dracula + LYT",
+  "textFontFamily": "Inter",
+  "showViewHeader": false,
+  "showRibbon": false
+}

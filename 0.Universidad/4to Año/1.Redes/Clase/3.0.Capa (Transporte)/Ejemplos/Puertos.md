@@ -1,0 +1,30 @@
+- 20 (TCP), utilizado por FTP (File Transfer Protocol) para datos
+- 21 (TCP), utilizado por FTP (File Transfer Protocol) para control
+- 25 (TCP), utilizado por SMTP (Simple Mail Transfer Protocol)
+- 53 (TCP), utilizado por DNS (Domain Name System)
+- 53 (UDP), utilizado por DNS (Domain Name System)
+- 67 (UDP), utilizado por BOOTP BootStrap Protocol (Server) y por DHCP
+- 68 (UDP). utilizado por BOOTP BootStrap Protocol (Client) y por DHCP
+- 69 (UDP), utilizado por TFTP (Trivial File Transfer Protocol)
+- 80 (TCP), utilizado por HTTP (HyperText Transfer Protocol)
+- 88 (TCP), utilizado por Kerberos (agente de autenticación)
+- 110 (TCP), utilizado por POP3 (Post Office Protocol)
+- 137 (TCP), utilizado por NetBIOS (servicio de nombres)
+- 137 (UDP), utilizado por NetBIOS (servicio de nombres)
+- 138 (TCP), utilizado por NetBIOS (servicio de envío de datagramas)
+- 138 (UDP), utilizado por NetBIOS (servicio de envío de datagramas)
+- 139 (TCP), utilizado por NetBIOS (servicio de sesiones)
+- 139 (UDP), utilizado por NetBIOS (servicio de sesiones)
+- 143 (TCP), utilizado por IMAP4 (Internet Message Access Protocol)
+- 443 (TCP), utilizado por HTTPS/SSL (transferencia segura de páginas web)
+- 631 (TCP), utilizado por CUPS (sistema de impresión de Unix)
+- 993 (TCP), utilizado por IMAP4 sobre SSL
+- 995 (TCP), utilizado por POP3 sobre SSL
+- 1080 (TCP), utilizado por SOCKS Proxy
+- 1433 (TCP), utilizado por Microsoft-SQL-Server
+- 1434 (TCP), utilizado por Microsoft-SQL-Monitor
+- 1434 (UDP), utilizado por Microsoft-SQL-Monitor
+- 1701 (UDP), utilizado para Enrutamiento y Acceso Remoto para VPN con L2TP.
+- 1723 (TCP). utilizado para Enrutamiento y Acceso Remoto para VPN con PPTP.
+- 1761 (TCP), utilizado por Novell Zenworks Remote Control utility
+- 1863 (TCP), utilizado por MSN Messenger

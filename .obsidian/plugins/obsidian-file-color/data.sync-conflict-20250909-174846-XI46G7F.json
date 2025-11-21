@@ -1,0 +1,148 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "PUv-pVctZzAY3Q8o_OPcU",
+      "name": "red",
+      "value": "#d53030"
+    },
+    {
+      "id": "aPmXfBJ6mAOBoUoZZGjwI",
+      "name": "yellow",
+      "value": "#ffdd00"
+    },
+    {
+      "id": "5LHgZ583pAhnDTGnE1yNQ",
+      "name": "orange",
+      "value": "#eb5200"
+    },
+    {
+      "id": "RIS2BYFvQ1XZ_4fHqfS-3",
+      "name": "green",
+      "value": "#008a09"
+    },
+    {
+      "id": "XHt3UzxQ4U-yrbAq9yneC",
+      "name": "lightblue",
+      "value": "#5879fe"
+    },
+    {
+      "id": "abkLgQXVskVByGvxfdtiT",
+      "name": "purple",
+      "value": "#bf57db"
+    },
+    {
+      "id": "4g1hSjaennNHEmEE0oP0f",
+      "name": "grey",
+      "value": "#696969"
+    },
+    {
+      "id": "vdKBgQvyaY9ikrKjcUNDZ",
+      "name": "light-green",
+      "value": "#3dff9b"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1.Programming",
+      "color": "RIS2BYFvQ1XZ_4fHqfS-3"
+    },
+    {
+      "path": "1.Programming/Java",
+      "color": "5LHgZ583pAhnDTGnE1yNQ"
+    },
+    {
+      "path": "1.Programming/Linux",
+      "color": "abkLgQXVskVByGvxfdtiT"
+    },
+    {
+      "path": "1.Programming/Vim",
+      "color": "RIS2BYFvQ1XZ_4fHqfS-3"
+    },
+    {
+      "path": "Otros/HardWare",
+      "color": "aPmXfBJ6mAOBoUoZZGjwI"
+    },
+    {
+      "path": "0.Universidad/3er Año/1.Diseño",
+      "color": "5LHgZ583pAhnDTGnE1yNQ"
+    },
+    {
+      "path": "0.Universidad/3er Año/2.Fisica II",
+      "color": "PUv-pVctZzAY3Q8o_OPcU"
+    },
+    {
+      "path": "0.Universidad/3er Año/3.Sistemas Operativos",
+      "color": "XHt3UzxQ4U-yrbAq9yneC"
+    },
+    {
+      "path": "0.Universidad/3er Año/5.Gestión de Datos",
+      "color": "RIS2BYFvQ1XZ_4fHqfS-3"
+    },
+    {
+      "path": "0.Universidad",
+      "color": "abkLgQXVskVByGvxfdtiT"
+    },
+    {
+      "path": "Life-Style/Gym - Routine.md",
+      "color": "aPmXfBJ6mAOBoUoZZGjwI"
+    },
+    {
+      "path": "Otros/Music",
+      "color": "vdKBgQvyaY9ikrKjcUNDZ"
+    },
+    {
+      "path": "1.Programming/Git",
+      "color": "5LHgZ583pAhnDTGnE1yNQ"
+    },
+    {
+      "path": "Otros/Ciberseguridad",
+      "color": "XHt3UzxQ4U-yrbAq9yneC"
+    },
+    {
+      "path": "1.Programming/JavaScript",
+      "color": "aPmXfBJ6mAOBoUoZZGjwI"
+    },
+    {
+      "path": "Otros/DAAD",
+      "color": "5LHgZ583pAhnDTGnE1yNQ"
+    },
+    {
+      "path": "0.Universidad/3er Año/6.Economía",
+      "color": "aPmXfBJ6mAOBoUoZZGjwI"
+    },
+    {
+      "path": "3.Work",
+      "color": "vdKBgQvyaY9ikrKjcUNDZ"
+    },
+    {
+      "path": "Otros/Trade",
+      "color": "RIS2BYFvQ1XZ_4fHqfS-3"
+    },
+    {
+      "path": "0.Universidad/4to Año/2.Comunicación",
+      "color": "aPmXfBJ6mAOBoUoZZGjwI"
+    },
+    {
+      "path": "0.Universidad/4to Año/3.Simulacion",
+      "color": "RIS2BYFvQ1XZ_4fHqfS-3"
+    },
+    {
+      "path": "0.Universidad/4to Año/4.ADR",
+      "color": "PUv-pVctZzAY3Q8o_OPcU"
+    },
+    {
+      "path": "0.Universidad/4to Año/5.Legislación",
+      "color": "abkLgQXVskVByGvxfdtiT"
+    },
+    {
+      "path": "0.Universidad/4to Año/2.TACS",
+      "color": "XHt3UzxQ4U-yrbAq9yneC"
+    },
+    {
+      "path": "0.Universidad/4to Año/1.Redes",
+      "color": "abkLgQXVskVByGvxfdtiT"
+    }
+  ]
+}

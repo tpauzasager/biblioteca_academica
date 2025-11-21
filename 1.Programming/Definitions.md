@@ -1,0 +1,4 @@
+1. Un ***lenguaje*** es ***CONCURRENTE*** cuando tiene las estructuras y herramientas para definir y manejar diferentes tareas (crear hilos), dentro de un programa 
+2. El ***GARBAGE COLLECTOR*** se encarga de identificar y liberar la memoria asignada dinamicamente (algún proceso la asigno, pero nunca la liberó, por eso quedaría como memory leaked)
+3. ***RACE CONDITION*** happens when multiple the outcome of a program depends on non-deterministic timing or interleaving of multiple concurrent operations (i.e. multiple goroutine running in parallel read and modify the same variable, the outcome will depend on the timing when each goroutine reads and writes)
+4. 

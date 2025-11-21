@@ -1,0 +1,1 @@
+Proteccione establecidas en la CN para asegurar respeto a los derechos y libertades 

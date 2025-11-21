@@ -1,0 +1,7 @@
+![[Pasted image 20250807082759.webp]]
+
+Every day new rules are invented about what you should and should not do, but you cant just obey them all, how to know if the things you listen and read on the internet are remotely correct or even useful? Well, here i am today, not to give you a step by step recipe for success but, instead, to put up some axioms that will help you decide the best way to create a healthy life for yourself. 
+Lets start saying that not every rule is going to be useful for you, many body types differ from its behavior, so it's a game of try and error. The more things you try, the more information you will get from your body. On the other hand, for the exercising, you should know that every muscle gets trained differently, one by pushing and other by pulling. So your exercise routing should have at least both of these types of exercise. 
+And finally, eating healthy is not about having all the vitamins and all the nutrients and everything else, is about giving your body what really needs. The main focus, specially for a teenage who works out, are calories and protein. You get protein in every type of meat and calories can be obtained by any food of your choice. 
+
+<falta conclusión>

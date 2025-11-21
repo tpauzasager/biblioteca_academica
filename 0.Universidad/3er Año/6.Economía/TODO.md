@@ -1,0 +1,7 @@
+- [x] 1-20 (Micro)
+- [x] 21-29 (Macro)
+- [x] 30-35(Amortización)
+- [x] 36-46 (Costos)
+- [x] 47-57 (Contabilidad)
+- [x] 58-65 (Proyectos)
+- [x] 66-73 (Macro)

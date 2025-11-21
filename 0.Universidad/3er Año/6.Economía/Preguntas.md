@@ -1,0 +1,2 @@
+- En el cuadro de resultados: Los gastos de comercialización variables tambien depende de la cantidad producida en el periodo? Si es así, entonces para calcular el punto de equilibrio debería evaluar el gasto de comercialización unitario por la cantidad vendida (en vez del total)? 
+- Por que la caja y banco forma parte del Activo de la empresa y no del PN?

@@ -1,0 +1,2 @@
+- Pasar a herencia y persister como herencia
+- 

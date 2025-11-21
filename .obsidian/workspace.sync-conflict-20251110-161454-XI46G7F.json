@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "ea98590106baad54",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb49191e80f5329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4f9d23215ea2d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Universidad/4to Año/1.Redes/2.X.25/HDLC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HDLC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a72389bca2260cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b79a8f85addf734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6374c34eeb4b02e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac56988b5fc960e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e80d8322204408c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "fbcedbebced40974",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5452e454498bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5926bf6d5a8e33d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.Universidad/4to Año/5.Legislación/10.Sociedades/Transformación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Transformación"
+            }
+          },
+          {
+            "id": "6d0113b1bc1e89d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0.Universidad/4to Año/1.Redes/2.X.25/HDLC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HDLC"
+            }
+          },
+          {
+            "id": "1138059a59c68b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35955a423f5decb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.Universidad/3er Año/5.Gestión de Datos/10.BI/BI.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "d4f9d23215ea2d55",
+  "lastOpenFiles": [
+    "0.Universidad/4to Año/1.Redes/7.Seguridad/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/6.MPLS/_Intruducción.md",
+    "0.Universidad/4to Año/1.Redes/4.ATM/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/3.Frame Relay/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/Practica/2..md",
+    "0.Universidad/4to Año/1.Redes/2.X.25/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/2.X.25/HDLC.md",
+    "Pasted image 20251103075419.webp",
+    "0.Universidad/4to Año/1.Redes/7.Seguridad",
+    "Pasted image 20251102212004.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251102191947.webp",
+    "0.Universidad/4to Año/1.Redes/Libro/19. Enrutamiento/Dispositivos.md",
+    "Pasted image 20251102191930.webp",
+    "0.Universidad/4to Año/1.Redes/Practica/1..md",
+    "0.Universidad/4to Año/1.Redes/Libro/19. Enrutamiento/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/Libro/18.Interconexión de Redes/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/3.Frame Relay/Ejercicio de Velocidades.md",
+    "0.Universidad/4to Año/1.Redes/5.Resumen/Comparación.md",
+    "0.Universidad/4to Año/1.Redes/5.Resumen/MTU.md",
+    "0.Universidad/4to Año/1.Redes/Clase/Resumen Protocolos.md",
+    "0.Universidad/4to Año/1.Redes/1.Conmutadores/9-29 - Conmutadores.md",
+    "0.Universidad/4to Año/1.Redes/Libro/18.Interconexión de Redes/IP/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/Libro/20.Transporte/TCP.md",
+    "0.Universidad/4to Año/1.Redes/Libro/20.Transporte/UDP.md",
+    "0.Universidad/4to Año/1.Redes/Libro/18.Interconexión de Redes/IP/Aplicaciones.md",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251102084011.webp",
+    "79854aae-29c8-443a-8d84-556027a954d2.webp",
+    "0.Universidad/4to Año/1.Redes/Practica/1er Parcial/1..md",
+    "0.Universidad/4to Año/1.Redes/Practica/1er Parcial/3..md",
+    "0.Universidad/4to Año/1.Redes/Practica/1er Parcial",
+    "0.Universidad/4to Año/1.Redes/Practica/1er Parcial/2..md",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/WireShark/Parcial.md",
+    "0.Universidad/4to Año/4.ADR/3.Infra/Procesamiento de Datos.md",
+    "0.Universidad/4to Año/4.ADR/999.Img/Pasted image 20251029123238.webp",
+    "0.Universidad/3er Año/3.Sistemas Operativos/999.Imagenes/Pasted image 20240913201228.png",
+    "0.Universidad/4to Año/1.Redes/6.MPLS",
+    "0.Universidad/3er Año/3.Sistemas Operativos/999.Imagenes/Pasted image 20240831000057.png",
+    "0.Universidad/3er Año/3.Sistemas Operativos/999.Imagenes/Pasted image 20240906211233.png",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/WireShark",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo",
+    "0.Universidad/4to Año/3.TdC/1. hola",
+    "0.Universidad/4to Año/3.TdC/10.Transformada Z",
+    "0.Universidad/4to Año/3.TdC/9.PLC",
+    "0.Universidad/4to Año/1.Redes/5.Resumen",
+    "0.Universidad/4to Año/1.Redes/4.ATM",
+    "0.Universidad/4to Año/2.Comunicación/7.Medios Físicos/Físico/FO/Untitled.canvas",
+    "0.Universidad/4to Año/5.Legislación/12.Derecho Laboral/Untitled.canvas",
+    "Untitled.canvas",
+    "0.Universidad/3er Año/6.Economía/6.Macro/Untitled.canvas"
+  ]
+}

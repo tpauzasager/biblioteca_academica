@@ -1,0 +1,1 @@
+Conjunto de procesos que no pueden continuar su ejecución, pero siguen ejecutando en una espera activa 

@@ -1,0 +1,1 @@
+1. [[Segmentación Paginada]]. Como se hace para compartir espacio en memoria entre procesos en un contexto de segmentación páginada? 

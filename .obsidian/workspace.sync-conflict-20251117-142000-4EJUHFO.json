@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "ea98590106baad54",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3b3839c8b54b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "937a2a894fafd26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Universidad/4to Año/2.TACS/4.Infra/Serverless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serverless"
+            }
+          },
+          {
+            "id": "26e94ac162ff3e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Universidad/4to Año/1.Redes/4.ATM/_Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Introducción"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a72389bca2260cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b79a8f85addf734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6374c34eeb4b02e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac56988b5fc960e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e80d8322204408c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "fbcedbebced40974",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5452e454498bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5926bf6d5a8e33d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.Universidad/4to Año/5.Legislación/10.Sociedades/Transformación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Transformación"
+            }
+          },
+          {
+            "id": "6d0113b1bc1e89d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTTP/WebSec/Web Cache Deception/DATA/File Names.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from File Names"
+            }
+          },
+          {
+            "id": "1138059a59c68b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35955a423f5decb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.Universidad/3er Año/5.Gestión de Datos/10.BI/BI.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "26e94ac162ff3e7d",
+  "lastOpenFiles": [
+    "0.Universidad/4to Año/1.Redes/3.Frame Relay/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/2.X.25/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/4.ATM/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/2.X.25/HDLC.md",
+    "0.Universidad/4to Año/1.Redes/Apuntes/29-9.md",
+    "Pasted image 20251102212004.webp",
+    "4.Ingles/Practice/First Trainer/T3.md",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251021120919.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251014125225.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251014123955.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251021113047.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251017131558.webp",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251017130459.webp",
+    "0.Universidad/4to Año/1.Redes/6.MPLS/_Intruducción.md",
+    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251014180803.webp",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/Cisco PT/Conexiones Alámbricas.md",
+    "0.Universidad/4to Año/1.Redes/3.Frame Relay/Ejercicio de Velocidades.md",
+    "0.Universidad/4to Año/3.TdC/99.Img/Pasted image 20251021212648.webp",
+    "4.Ingles/Practice/FIRST 1/T4.md",
+    "0.Universidad/4to Año/1.Redes/Libro/18.Interconexión de Redes/IP/_Introducción.md",
+    "0.Universidad/4to Año/1.Redes/5.Resumen/MTU.md",
+    "0.Universidad/4to Año/3.TdC/99.Img/Pasted image 20251021212550.webp",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/Cisco PT/Access list.md",
+    "0.Universidad/4to Año/1.Redes/5.Resumen/Comparación.md",
+    "4.Ingles/Practice/FIRST 1/T3.md",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/Cisco PT/old/PC.md",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/Cisco PT/old/Otros.md",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/Cisco PT/AP.md",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/Cisco PT/old/Switch Config.md",
+    "0.Universidad/4to Año/1.Redes/Libro/17.LAN Wireless/802.11.md",
+    "0.Universidad/4to Año/1.Redes/Clase/Labo/WireShark/Parcial.md",
+    "0.Universidad/4to Año/1.Redes/7.Seguridad/_Introducción.md",
+    "0.Universidad/4to Año/3.TdC/9.PLC/_Introducción.md",
+    "4.Ingles/Practice/First Trainer/T2.md",
+    "0.Universidad/3er Año/1.Diseño/1.Diseño/2.Patrones/Creacionales/Factory.md",
+    "0.Universidad/4to Año/4.ADR/2do Parcial.md",
+    "0.Universidad/4to Año/1.Redes/Libro/19. Enrutamiento",
+    "0.Universidad/4to Año/1.Redes/Libro/18.Interconexión de Redes/IP/~syncthing~_Introducción.md.tmp",
+    "0.Universidad/4to Año/1.Redes/Libro/18.Interconexión de Redes/IP",
+    "0.Universidad/4to Año/1.Redes/Libro/15.LAN/Arquitectura",
+    "0.Universidad/4to Año/1.Redes/Libro/20.Transporte",
+    "0.Universidad/4to Año/1.Redes/Libro/17.LAN Wireless/9.Espectro Expandido",
+    "0.Universidad/4to Año/1.Redes/2.X.25/~syncthing~_Introducción.md.tmp",
+    "0.Universidad/4to Año/1.Redes/2.X.25/~syncthing~HDLC.md.tmp",
+    "0.Universidad/4to Año/1.Redes/2.X.25",
+    "0.Universidad/4to Año/1.Redes/1.Conmutadores",
+    "0.Universidad/4to Año/2.Comunicación/7.Medios Físicos/Físico/FO/Untitled.canvas",
+    "0.Universidad/4to Año/5.Legislación/12.Derecho Laboral/Untitled.canvas",
+    "Untitled.canvas",
+    "0.Universidad/3er Año/6.Economía/6.Macro/Untitled.canvas"
+  ]
+}
