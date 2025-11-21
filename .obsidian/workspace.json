@@ -11,14 +11,15 @@
             "id": "4650426226a4f077",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".tmp.driveupload/5504",
+                "bFile": ".tmp.driveupload/5504",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2024 - 2C - B"
+              "icon": "diff",
+              "title": "Diff: 5504"
             }
           },
           {
@@ -195,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e3919b7c9c5be30",
+  "active": "4650426226a4f077",
   "lastOpenFiles": [
+    "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
     "0.Universidad/4to Año/2.TACS/2.Docker/_Introducción.md",
     "0.Universidad/4to Año/2.TACS/11.Extras/AI",
     "0.Universidad/4to Año/2.TACS/11.Extras/Untitled.md",
@@ -205,7 +207,6 @@
     "0.Universidad/4to Año/2.TACS/2.Docker/Pros vs Contras.md",
     "0.Universidad/4to Año/2.TACS/2.Docker/Contenedor vs VM.md",
     "0.Universidad/4to Año/2.TACS/2.Docker/Ciclo de Vida.md",
-    "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
     "Pasted image 20251121160740.webp",
     "0.Universidad/4to Año/2.TACS/Apuntes/08-26.md",
     "0.Universidad/4to Año/2.TACS/Practica",

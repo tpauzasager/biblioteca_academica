@@ -9,6 +9,6 @@
   "cssTheme": "Dracula + LYT",
   "textFontFamily": "Inter",
   "showViewHeader": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "nativeMenus": false
 }
