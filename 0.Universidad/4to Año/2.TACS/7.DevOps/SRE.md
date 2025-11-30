@@ -19,7 +19,6 @@ Error Budget
 - Tiempo que el servicio puede estár caido 
 - Para determinar tiempo entre realice (mientras más budget, puede deployear con más frecuencia)
 - Para determinar si pueda entregar una nueva feature (pq si ya me consumí el error budget => no puedo arriesgar a que el servidor se caiga de nuevo )
-
 ## Metricas
 SLI -> Service Level Indicator
 - Medición para _successful enough_

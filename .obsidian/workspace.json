@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "633ca9066c3610fc",
+        "id": "77f7240824495248",
         "type": "tabs",
         "children": [
           {
-            "id": "8cb74c52487e50bf",
+            "id": "0a446dbef66064dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Universidad/4to Año/2.TACS/2.Docker/_Introducción.md",
+                "file": "0.Universidad/4to Año/4.ADR/Final/4.Cloud/17.Continuidad de Operación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Introducción"
+              "title": "17.Continuidad de Operación"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
+    "width": 274.5,
     "collapsed": true
   },
   "right": {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Universidad/4to Año/2.TACS/2.Docker/_Introducción.md",
+                "file": "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Introducción"
+              "title": "Outline of 2024 - 2C - B"
             }
           }
         ],
@@ -168,57 +168,57 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8cb74c52487e50bf",
+  "active": "0a446dbef66064dd",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
-    "0.Universidad/4to Año/2.TACS/2.Docker/_Introducción.md",
-    "0.Universidad/4to Año/2.TACS/11.Extras/AI",
-    "0.Universidad/4to Año/2.TACS/11.Extras/Untitled.md",
-    "0.Universidad/4to Año/2.TACS/11.Extras/AB Testing",
-    "0.Universidad/4to Año/2.TACS/11.Extras",
-    "0.Universidad/4to Año/2.TACS/2.Docker/Pros vs Contras.md",
-    "0.Universidad/4to Año/2.TACS/2.Docker/Contenedor vs VM.md",
-    "0.Universidad/4to Año/2.TACS/2.Docker/Ciclo de Vida.md",
-    "Pasted image 20251121160740.webp",
-    "0.Universidad/4to Año/2.TACS/Apuntes/08-26.md",
-    "0.Universidad/4to Año/2.TACS/Practica",
-    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121111623.webp",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/15.Red.md",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/14.Cloud.md",
+    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/13.Escalabilidad.md",
+    "Pasted image 20251130120610.webp",
+    "Pasted image 20251130120535.webp",
+    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/12.Persistencia.md",
+    "0.Universidad/4to Año/4.ADR/cusada/3.Infra/Almacenamiento.md",
+    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/11.Arquitectura.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/1.Definición de Proyecto.md",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud",
+    "0.Universidad/4to Año/4.ADR/Final/Untitled",
+    "0.Universidad/4to Año/4.ADR/Final/2.Blockchain",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos",
+    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura",
+    "0.Universidad/4to Año/4.ADR/Final/2.Blockchain/10.BigData & Block Chain.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/9.MEP.md",
+    "Pasted image 20251130094418.webp",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/8.Abastesimiento.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/7.Benchmark.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/6.RH.md",
+    "0.Universidad/4to Año/Fechas.md",
+    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130090126.webp",
+    "0.Universidad/4to Año/4.ADR/Final/Img",
     "TODO.md",
-    "0.Universidad/4to Año/2.TACS/10. Service Mesh/_Introducción.md",
+    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251129144052.webp",
+    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121160740.webp",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/5.Métricas.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/4.EVM.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/3.Plan Negocio.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/2.Gestión Ágil.md",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/18.Seguridad Info.md",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/17.Continuidad de Operación.md",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/16.Herramientas Seguridad.md",
+    "0.Universidad/4to Año/4.ADR/cusada",
+    "0.Universidad/4to Año/4.ADR/Final",
+    "4.Ingles/Practice/First Trainer/T5.md",
+    "0.Universidad/4to Año/2.TACS/7.DevOps/SRE.md",
+    "4.Ingles/Practice/First Trainer/T4.md",
+    "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
+    "New Text Document.txt",
+    "0.Universidad/4to Año/2.TACS/11.Extras/AI",
+    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121111623.webp",
     "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121093018.webp",
     "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121092433.webp",
-    "0.Universidad/4to Año/2.TACS/10. Service Mesh/TLS.md",
-    "0.Universidad/4to Año/2.TACS/5.NoSQL/Propiedades.md",
-    "0.Universidad/4to Año/2.TACS/5.NoSQL/NewSQL.md",
-    "0.Universidad/4to Año/2.TACS/5.NoSQL/_Introducción.md",
-    "0.Universidad/4to Año/2.TACS/5.NoSQL/Tipos/Wide Column.md",
-    "0.Universidad/4to Año/2.TACS/5.NoSQL/Tipos/Key-Value.md",
-    "0.Universidad/4to Año/2.TACS/5.NoSQL/Tipos/Grafos.md",
-    "0.Universidad/4to Año/2.TACS/5.NoSQL/Tipos/Documental.md",
     "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121082909.webp",
-    "0.Universidad/4to Año/2.TACS/5.NoSQL.zip",
-    "4.Ingles/Practice/First Trainer/T4.md",
-    "0.Universidad/4to Año/2.TACS/10. Service Mesh",
-    "0.Universidad/4to Año/2.TACS/9.Microservicios/_Introducción.md",
-    "0.Universidad/4to Año/2.TACS/9.Microservicios/Monolito.md",
-    "0.Universidad/4to Año/2.TACS/7.DevOps/SRE.md",
-    "0.Universidad/4to Año/2.TACS/7.DevOps/_Introducción.md",
-    "0.Universidad/4to Año/2.TACS/7.DevOps/IaC.md",
-    "0.Universidad/4to Año/2.TACS/7.DevOps/Git Branch Model.md",
-    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251116101554.webp",
-    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251112090243.webp",
-    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251117164152.webp",
-    "0.Universidad/4to Año/1.Redes/999.Img/Pasted image 20251117164218.webp",
-    "0.Universidad/4to Año/2.TACS/6.Observabilidad/Tipos/OpenTelemetry.md",
-    "0.Universidad/4to Año/1.Redes/2.X.25/~syncthing~HDLC.sync-conflict-20251119-084614-XI46G7F.md.tmp",
-    "~syncthing~TODO.sync-conflict-20251119-084614-XI46G7F.md.tmp",
-    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251106155224.webp",
-    "0.Universidad/4to Año/2.TACS/999.Img/~syncthing~Pasted image 20251106155224.webp.tmp",
-    "0.Universidad/4to Año/2.TACS/999.Img/~syncthing~Pasted image 20251105165355.webp.tmp",
     "0.Universidad/4to Año/2.Comunicación/7.Medios Físicos/Físico/FO/Untitled.canvas",
     "0.Universidad/4to Año/5.Legislación/12.Derecho Laboral/Untitled.canvas",
     "Untitled.canvas",
