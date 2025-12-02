@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "77f7240824495248",
+        "id": "81f787f2c024a080",
         "type": "tabs",
         "children": [
           {
-            "id": "0a446dbef66064dd",
+            "id": "1cc8d4410235ccd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Universidad/4to Año/4.ADR/Final/4.Cloud/17.Continuidad de Operación.md",
+                "file": "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 07 - 23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17.Continuidad de Operación"
+              "title": "2024 - 07 - 23"
+            }
+          },
+          {
+            "id": "00ec026dbce53759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/4.EVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.EVM"
             }
           }
         ]
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "fbcedbebced40974",
@@ -143,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024 - 2C - B"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -172,27 +185,42 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0a446dbef66064dd",
+  "active": "1cc8d4410235ccd0",
   "lastOpenFiles": [
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/15.Red.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/14.Cloud.md",
-    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/13.Escalabilidad.md",
-    "Pasted image 20251130120610.webp",
-    "Pasted image 20251130120535.webp",
-    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/12.Persistencia.md",
-    "0.Universidad/4to Año/4.ADR/cusada/3.Infra/Almacenamiento.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/4.EVM.md",
+    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 07 - 23.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/5.Métricas.md",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/17.Continuidad de Operación.md",
+    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 07 - 30.md",
+    "0.Universidad/4to Año/4.ADR/Final/2.Blockchain/10.BigData & Block Chain.md",
     "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/11.Arquitectura.md",
+    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/13.Escalabilidad.md",
+    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/12.Persistencia.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/9.MEP.md",
+    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 12 - 03.md",
+    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 11 - 04.md",
+    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 10 - 18.md",
+    "Pasted image 20251201143517.webp",
+    "Pasted image 20251201143504.webp",
     "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/1.Definición de Proyecto.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/3.Plan Negocio.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/2.Gestión Ágil.md",
+    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/7.Benchmark.md",
+    "Untitled.md",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/16.Herramientas Seguridad.md",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/14.Cloud.md",
+    "Untitled.canvas",
+    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/15.Red.md",
+    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130120610.webp",
+    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130120535.webp",
+    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130094418.webp",
+    "0.Universidad/4to Año/4.ADR/Final/Ejercitación",
+    "0.Universidad/4to Año/4.ADR/cusada/3.Infra/Almacenamiento.md",
     "0.Universidad/4to Año/4.ADR/Final/4.Cloud",
-    "0.Universidad/4to Año/4.ADR/Final/Untitled",
     "0.Universidad/4to Año/4.ADR/Final/2.Blockchain",
     "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos",
     "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura",
-    "0.Universidad/4to Año/4.ADR/Final/2.Blockchain/10.BigData & Block Chain.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/9.MEP.md",
-    "Pasted image 20251130094418.webp",
     "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/8.Abastesimiento.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/7.Benchmark.md",
     "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/6.RH.md",
     "0.Universidad/4to Año/Fechas.md",
     "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130090126.webp",
@@ -200,28 +228,14 @@
     "TODO.md",
     "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251129144052.webp",
     "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121160740.webp",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/5.Métricas.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/4.EVM.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/3.Plan Negocio.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/2.Gestión Ágil.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/18.Seguridad Info.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/17.Continuidad de Operación.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/16.Herramientas Seguridad.md",
     "0.Universidad/4to Año/4.ADR/cusada",
     "0.Universidad/4to Año/4.ADR/Final",
-    "4.Ingles/Practice/First Trainer/T5.md",
-    "0.Universidad/4to Año/2.TACS/7.DevOps/SRE.md",
-    "4.Ingles/Practice/First Trainer/T4.md",
-    "0.Universidad/4to Año/2.TACS/Practica/2024 - 2C - B.md",
     "New Text Document.txt",
     "0.Universidad/4to Año/2.TACS/11.Extras/AI",
     "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121111623.webp",
     "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121093018.webp",
-    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121092433.webp",
-    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121082909.webp",
     "0.Universidad/4to Año/2.Comunicación/7.Medios Físicos/Físico/FO/Untitled.canvas",
     "0.Universidad/4to Año/5.Legislación/12.Derecho Laboral/Untitled.canvas",
-    "Untitled.canvas",
     "0.Universidad/3er Año/6.Economía/6.Macro/Untitled.canvas"
   ]
 }
