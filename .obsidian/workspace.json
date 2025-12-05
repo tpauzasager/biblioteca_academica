@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "81f787f2c024a080",
+        "id": "072ca6c507df6aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "1cc8d4410235ccd0",
+            "id": "07f89505988893a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 07 - 23.md",
+                "file": "0.Universidad/4to Año/2.Comunicación/8.Modulación/Multiplexación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024 - 07 - 23"
-            }
-          },
-          {
-            "id": "00ec026dbce53759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/9.MEP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9.MEP"
+              "title": "Multiplexación"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "fbcedbebced40974",
@@ -157,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "0.Universidad/4to Año/2.Comunicación/6.Tratamiento de Errores/_Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of _Introducción"
             }
           }
         ],
@@ -186,55 +172,55 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "00ec026dbce53759",
+  "active": "07f89505988893a1",
   "lastOpenFiles": [
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/8.Abastesimiento.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/7.Benchmark.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/6.RH.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/5.Métricas.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/4.EVM.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/3.Plan Negocio.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/2.Gestión Ágil.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/1.Definición de Proyecto.md",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos/9.MEP.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/17.Continuidad de Operación.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/18.Seguridad Info.md",
-    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/13.Escalabilidad.md",
-    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/12.Persistencia.md",
-    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura/11.Arquitectura.md",
-    "0.Universidad/4to Año/4.ADR/Final/2.Blockchain/10.BigData & Block Chain.md",
-    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 07 - 23.md",
-    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 07 - 30.md",
-    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 12 - 03.md",
-    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 11 - 04.md",
-    "0.Universidad/4to Año/4.ADR/Final/Ejercitación/2024 - 10 - 18.md",
-    "Pasted image 20251201143517.webp",
-    "Pasted image 20251201143504.webp",
-    "Untitled.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/16.Herramientas Seguridad.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/14.Cloud.md",
+    "Pasted image 20251205101616.webp",
+    "Pasted image 20251205101554.webp",
+    "0.Universidad/4to Año/2.Comunicación/8.Modulación/_Introducción.md",
+    "0.Universidad/4to Año/2.Comunicación/8.Modulación/Multiplexación.md",
+    "Pasted image 20251205095418.webp",
+    "0.Universidad/4to Año/2.Comunicación/7.Medios de Comunicación/Optica.md",
+    "0.Universidad/4to Año/2.Comunicación/8.Modulación",
+    "Pasted image 20251205091818.webp",
+    "Pasted image 20251205090819.webp",
+    "0.Universidad/4to Año/2.Comunicación/7.Medios de Comunicación/_Introducción.md",
+    "Pasted image 20251205084927.webp",
+    "Pasted image 20251205084006.webp",
+    "0.Universidad/4to Año/2.Comunicación/6.Tratamiento de Errores/_Introducción.md",
+    "0.Universidad/4to Año/2.Comunicación/7.Medios de Comunicación",
+    "Pasted image 20251204204024.webp",
+    "Pasted image 20251204203706.webp",
+    "0.Universidad/4to Año/2.Comunicación/99.img/Pasted image 20251204152607.webp",
+    "0.Universidad/4to Año/2.Comunicación/99.img",
+    "0.Universidad/4to Año/2.Comunicación/1.Introducción/Errores.md",
+    "0.Universidad/4to Año/2.Comunicación/6.Tratamiento de Errores",
+    "0.Universidad/4to Año/2.Comunicación/5.Canal Comunicación/_Introducción.md",
+    "0.Universidad/4to Año/2.Comunicación/4.Banda Base/Teoría Información.md",
+    "0.Universidad/4to Año/2.Comunicación/5.Canal Comunicación",
+    "0.Universidad/4to Año/2.Comunicación/4.Banda Base/Filtros.md",
+    "0.Universidad/4to Año/2.Comunicación/99.img/Pasted image 20251204172601.webp",
+    "0.Universidad/4to Año/2.Comunicación/4.Banda Base/_Introducción.md",
+    "0.Universidad/4to Año/2.Comunicación/2.Transmisión/_Introducción.md",
+    "0.Universidad/4to Año/2.Comunicación/4.Banda Base",
+    "0.Universidad/4to Año/2.Comunicación/2.Transmisión",
+    "0.Universidad/4to Año/2.Comunicación/cursada/6.Errores/Intro.md",
+    "0.Universidad/4to Año/2.Comunicación/1.Introducción",
+    "0.Universidad/4to Año/zz.1er Cuatri/2.Comunicación/1.OSI.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada",
+    "0.Universidad/4to Año/2.Comunicación/cursada/6.Errores/Corrección.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/6.Errores/_Introducción.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/6.Errores/Métodos/CRC.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/6.Errores/Métodos/Checksum.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/6.Errores/Métodos/BCC.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/5.Canal/Teorema del Muestreo.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/5.Canal/Shannon Hartley.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/5.Canal/Introducción.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/5.Canal/Capacidad.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/7.Medios Físicos/_Introducción.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/7.Medios Físicos/Inalámbrico/Guía de Onda.md",
+    "0.Universidad/4to Año/2.Comunicación/cursada/7.Medios Físicos/Inalámbrico/Microondas.md",
     "Untitled.canvas",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud/15.Red.md",
-    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130120610.webp",
-    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130120535.webp",
-    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130094418.webp",
     "0.Universidad/4to Año/4.ADR/Final/Ejercitación",
-    "0.Universidad/4to Año/4.ADR/cusada/3.Infra/Almacenamiento.md",
-    "0.Universidad/4to Año/4.ADR/Final/4.Cloud",
-    "0.Universidad/4to Año/4.ADR/Final/2.Blockchain",
-    "0.Universidad/4to Año/4.ADR/Final/1.Planificación recursos",
-    "0.Universidad/4to Año/4.ADR/Final/3. Arquitectura",
-    "0.Universidad/4to Año/Fechas.md",
-    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251130090126.webp",
-    "0.Universidad/4to Año/4.ADR/Final/Img",
-    "0.Universidad/4to Año/4.ADR/Final/Img/Pasted image 20251129144052.webp",
-    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121160740.webp",
-    "0.Universidad/4to Año/4.ADR/cusada",
-    "0.Universidad/4to Año/4.ADR/Final",
-    "New Text Document.txt",
-    "0.Universidad/4to Año/2.TACS/11.Extras/AI",
-    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121111623.webp",
-    "0.Universidad/4to Año/2.TACS/999.Img/Pasted image 20251121093018.webp",
     "0.Universidad/4to Año/2.Comunicación/7.Medios Físicos/Físico/FO/Untitled.canvas",
     "0.Universidad/4to Año/5.Legislación/12.Derecho Laboral/Untitled.canvas",
     "0.Universidad/3er Año/6.Economía/6.Macro/Untitled.canvas"
